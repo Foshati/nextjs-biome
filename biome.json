@@ -53,7 +53,8 @@
 				"noUnusedVariables": "error",
 				"useExhaustiveDependencies": "warn",
 				"useHookAtTopLevel": "error",
-				"useJsxKeyInIterable": "error"
+				"useJsxKeyInIterable": "error",
+				"noUnusedImports": "warn"
 			},
 			"security": {
 				"noDangerouslySetInnerHtmlWithChildren": "error"
